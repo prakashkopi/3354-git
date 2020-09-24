@@ -1,0 +1,6 @@
+a. 3
+b. it was created when the repository was to tell Git which files to ignore in a project 
+c. git log lists the project history, filter it and search for specific changes. Git status lets you inspect the working directory and the staging area, git log only operates on the committed history.
+d. untracked changes are not in git. unstaged changes are in git but not marked for commit. untracked files are not able to get converted to a git commit.unstaged changes exist in the working directory.
+e. git checkout is about updating the working tree (update the head) while git reset is about updating the index (moving the head).
+f. Local uncommitted changes (nothing is done).
